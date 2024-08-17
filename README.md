@@ -1,3 +1,3 @@
 # demo
 this is my first repository
-Author - Sumit Kone
+<br>Author - Sumit Kone</br>
